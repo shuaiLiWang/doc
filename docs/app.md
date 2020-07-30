@@ -191,28 +191,6 @@
   - 可以使用BixinKEY
 
 
-
-## <br/>**Wasabi**</br>
-#### &nbsp;环境搭建
-#### &nbsp;LINUX(Ubuntu 18.04)
-- APP下载地址：https://wasabiwallet.io/#download
-- github地址：https://github.com/zkSNACKs/WalletWasabi
-#### &nbsp; 创建一个钱包
-- 安装成功后，插入BixinKEY，点击左侧Hardware wallet，再点击下方的search hardware wallet，会自动搜索到BixinKEY，并创建钱包
-  <br/>![load-wallet](./pictures/wasabi-load_wallet.png)</br>
-#### &nbsp;发币
-- 进入菜单tools/settings，修改网络为testnet，重启软件，点击receive菜单项，获取地址并向该地址发送测试币(此处地址生成要根据已有的钱包生成，我输入的Observer为Electrum)
-  <br/>![receive-addr](./pictures/wasabi-receive-address.png)</br>
-- 点击send菜单项，输入金额和地址，点击Send Transaction
-  <br>![send](./pictures/wasabi-send.png)</br>
-- 此时会提醒你等待硬件确认，在BixinKEY上点击确认以后，会自动发送交易
-  <br>![sign](./pictures/wasabi-send-transaction.png)</br>
-- 回到交易历史页面会看到交易详情
-  <br>![unconfirm](./pictures/wasabi-history.png)</br>
-#### &nbsp;结果
-- 可以使用BixinKEY
-
-
 ### <br/>**BTCPayServer**</br>  
 #### &nbsp;环境搭建
 #### &nbsp;LINUX(Ubuntu 18.04)
